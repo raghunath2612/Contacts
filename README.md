@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
+Download the project and extract it.
+
 Steps to execute this project
 ->GO to the directory in the command prompt or termial and follow the steps
 1.       $ npm i
